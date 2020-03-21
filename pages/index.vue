@@ -4,7 +4,7 @@
       Dako Coin
     </h1>
     <h3>
-      It's a simple app for storing ideas on blockchain.
+      It's a simple app for storing ideas on blockchain with ProvenDB.
     </h3>
     <Ideas />
   </div>
