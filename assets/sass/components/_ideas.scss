@@ -1,0 +1,24 @@
+.ideas {
+  input,
+  label {
+    display: block;
+  }
+
+  input {
+    width: 90%;
+    max-width: 400px;
+    padding: 10px 12px;
+    background-color: transparent;
+    border: 1px solid $dark-primary;
+    margin: 0 auto 20px;
+    font-size: 14px;
+  }
+
+  label {
+    padding-bottom: 5px;
+  }
+
+  .password {
+    max-width: 250px;
+  }
+}

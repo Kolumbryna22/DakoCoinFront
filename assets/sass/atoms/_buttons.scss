@@ -1,0 +1,12 @@
+.btn-add {
+  border: 1px solid $green;
+  background-color: transparent;
+  border-radius: 4px;
+  padding: 8px 10px;
+  transition-duration: .3s;
+
+  &:hover {
+    background-color: $green;
+    color: $white;
+  }
+}

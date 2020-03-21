@@ -28,7 +28,7 @@ export default {
       },
       {
         rel: 'stylesheet',
-        href: 'https://use.typekit.net/xme0pxn.css'
+        href: 'https://use.typekit.net/rwj2nux.css'
       },
       {
         rel: 'stylesheet',
