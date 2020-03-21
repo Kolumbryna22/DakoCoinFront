@@ -22,3 +22,17 @@
     max-width: 250px;
   }
 }
+
+.ideas-list {
+  text-align: left;
+
+  table {
+    border-collapse: collapse;
+  }
+
+  th,
+  td {
+    border-bottom: 1px solid $dark-primary;
+    padding: 10px;
+  }
+}

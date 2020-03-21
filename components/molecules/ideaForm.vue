@@ -62,6 +62,7 @@ export default {
         }
       })
         .then((res) => {
+          self.$emit('newIdea', self.form);
           self.$store.dispatch('notifications/addTimedNotification', {
             status: true,
             message: 'Correctly add new idea'
